@@ -5,6 +5,8 @@ Darkest Dungeon, an telegram bot for a text game in style of dark fantasy (4 pla
 
 Done:
 
-*Level_grid generation
+*Level_grid generation (just for test)
 
-*Basic telegram bot
+*Basic telegram bot and some ui
+
+*Placeholders for save, char and other
