@@ -1,7 +1,7 @@
 import telebot
 from Level_gen import *
 map1 = Map(8, 8)
-bot = telebot.TeleBot("7531771529:AAElMlwTxyzKC9ySVkQLCtGg91P8ZsuJ8xc")
+bot = telebot.TeleBot("")
 
 @bot.message_handler(commands=['start', 'help'])
 def send_welcome(message):
